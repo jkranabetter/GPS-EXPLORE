@@ -1,16 +1,16 @@
 # GPS-EXPLORE
 A personal geo caching device built into a recycled Walkman, but the caches are sound files. A project built for a loved one.
 
-   ### GPS data Notes:
-      S and W are negative values
-      I am using decimal degrees notation
-      To fetch country GPS boundary relation number: https://nominatim.openstreetmap.org/
-      To fetch country GPS boundary data polygon:http://polygons.openstreetmap.fr/index.py
+### GPS data Notes:
+S and W are negative values
+I am using decimal degrees notation
+To fetch country GPS boundary relation number: https://nominatim.openstreetmap.org/
+To fetch country GPS boundary data polygon:http://polygons.openstreetmap.fr/index.py
 
-   ### MP3 setup notes:
-      The micro SD card should be formatted as FAT16 or FAT32
-      Songs must be prefixed with a unique 3 digit index number
-      MD_YX5300 library documentation: https://majicdesigns.github.io/MD_YX5300/class_m_d___y_x5300.html
+### MP3 setup notes:
+The micro SD card should be formatted as FAT16 or FAT32
+Songs must be prefixed with a unique 3 digit index number
+MD_YX5300 library documentation: https://majicdesigns.github.io/MD_YX5300/class_m_d___y_x5300.html
 
 ### The point inclusion in polygon test
 I am using the point inclusion in polygon test, following is the copyright licence to give due credit to the original creator.
