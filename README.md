@@ -16,9 +16,9 @@ A personal geo caching device built into a recycled Walkman, but the caches are 
    I am using the point inclusion in polygon test, following is the copyright licence to give due credit to the original creator.
    https://wrf.ecse.rpi.edu/Research/Short_Notes/pnpoly.html - Point Inclusion in Polygon Test W. Randolph Franklin (WRF)
 
-        * Copyright (c) 1970-2003, Wm. Randolph Franklin
+        > Copyright (c) 1970-2003, Wm. Randolph Franklin
 
-        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+        > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
         documentation files (the "Software"), to deal in the Software without restriction, including without limitation
         the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
         to permit persons to whom the Software is furnished to do so, subject to the following conditions:
