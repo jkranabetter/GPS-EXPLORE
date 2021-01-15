@@ -12,9 +12,9 @@ A personal geo caching device built into a recycled Walkman, but the caches are 
       Songs must be prefixed with a unique 3 digit index number
       MD_YX5300 library documentation: https://majicdesigns.github.io/MD_YX5300/class_m_d___y_x5300.html
 
-
-   I am using the point inclusion in polygon test, following is the copyright licence to give due credit to the original creator.
-   https://wrf.ecse.rpi.edu/Research/Short_Notes/pnpoly.html - Point Inclusion in Polygon Test W. Randolph Franklin (WRF)
+### The point inclusion in polygon test
+I am using the point inclusion in polygon test, following is the copyright licence to give due credit to the original creator.
+https://wrf.ecse.rpi.edu/Research/Short_Notes/pnpoly.html - Point Inclusion in Polygon Test W. Randolph Franklin (WRF)
    
 > Copyright (c) 1970-2003, Wm. Randolph Franklin
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
